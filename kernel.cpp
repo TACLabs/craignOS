@@ -36,6 +36,5 @@ extern "C" void kernelMain(const void* multiboot_structure, unsigned int /*multi
 
     while(true)
     {
-        printf("craignOS v0.0001");
     };
 }
