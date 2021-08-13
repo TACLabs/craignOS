@@ -6,9 +6,23 @@ craignOS, anciennement cassOS, nom changé en raison d'un jeu de mots bien plus 
 
 Système d'exploitation craignos écrit en C++, à vocation éducative
 
-'''console
+```console
 make && qemu-system-i386 -kernel craignOS.bin
-'''
+```
+
+## Une image
+
+<a href="https://i.imgur.com/z9JkBhL.png">
+    <img class="center" height="500px" width="500px" src="https://i.imgur.com/z9JkBhL.png">
+</a>
+
+<style>
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+</style>
 
 ## Features
 
